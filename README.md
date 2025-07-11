@@ -149,7 +149,7 @@ Mobil[] daftarMobil = {
 };
 ```
 
-14. **Error Handling** digunakan untuk menangani error yang mungkin terjadi saat runtime. Pada kode ini, menggunakan 'try-catch' untuk menangani input yang tidak valid.
+14. **Error Handling** digunakan untuk menangani error yang mungkin terjadi saat runtime. Pada kode ini, menggunakan `try-catch` untuk menangani input yang tidak valid.
 
 ```bash
 try {
